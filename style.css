@@ -1,6 +1,6 @@
 * {
     font-family: 'Oswald';
-    color: #dde;
+    color: #ddd;
     text-shadow: 1px 1px 2px #000;
   }
   
@@ -30,13 +30,13 @@
     font-size: 32px;
     margin: 0;
     text-align: center;
-    color: #eef;
+    color: #fff;
   }
   h3 {
     font-size: 20px;
     margin: 0;
     text-align: center;
-    color: #eef;
+    color: #fff;
   }
   
   div.q {
